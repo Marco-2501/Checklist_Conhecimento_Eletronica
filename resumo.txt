@@ -1,0 +1,18 @@
+TONICO - Resumo regulamento Elétrico e Eletrônico baja SAE:
+
+Requisitos Gerais Sistema Elétrico:
+• O sistema elétrico deve incluir pelo menos duas chaves gerais, uma luz de freio e uma bateria. As chaves gerais devem desativar a ignição do motor.
+Baterias:
+• Fixação e Proteção: As baterias devem ser fixadas de maneira segura, protegidas de exposição solar, fontes de calor, combustíveis, óleo, água e poeira.
+• Capacidade e Duração: Cada bateria não pode ter uma capacidade superior a 240 W/h, e a soma da capacidade de todas as baterias deve ser igual ou inferior a 360 W/h. As baterias devem fornecer energia para itens de segurança durante toda a duração dos eventos em competição.
+• Configuração e Selamento: Conjuntos de baterias em série ou paralelo são considerados como uma única unidade. Baterias devem ser seladas e não podem vazar, mesmo em caso de capotagem.
+• Baterias de Lítio: Devem ser instaladas atrás da parede corta-fogo e dentro de invólucros rígidos, resistentes a chamas, com apenas dois furos de 6 mm para alívio de pressão. A recarga só pode ser feita com a bateria no invólucro.
+
+Requisitos Gerais Sistema Eletrônico:
+Tipo de Bateria e Instrumentação:
+• Bateria: Tipo, tensão (V) e corrente (A/h) das baterias são especificados, com quantidade e localização dos pontos de aterramento do sistema elétrico.
+• Instrumentação: O tipo de sensores presentes no veículo e o sistema de registro de dados (embarcado, telemetria, ambos ou não aplicável) são detalhados.
+Alternador
+• Adição ao Motor: Permite-se adicionar um alternador para gerar energia elétrica. Apenas modelos especificados pela Briggs & Stratton para o modelo de motor utilizado são permitidos, com opções de 3, 10 e 20 amperes
+
+A característica mais interessante do sistema elétrico do Baja SAE BRASIL é a rigorosa regulamentação e segurança das baterias, especialmente as de lítio. As baterias de lítio devem ser instaladas em invólucros rígidos e resistentes a chamas, posicionadas atrás da parede corta-fogo, e equipadas com furos específicos para alívio de pressão. Essa configuração é projetada para prevenir vazamentos e garantir a segurança mesmo em caso de capotagem do veículo. A combinação desses requisitos com a limitação de capacidade máxima de 360 W/h assegura que o sistema elétrico não só seja eficiente, mas também seguro para todos os participantes da competição.

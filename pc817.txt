@@ -1,0 +1,30 @@
+Relatório sobre o PC817:
+
+Funcionamento:
+O PC817 é um optoacoplador, que consiste em um LED infravermelho e um fototransistor em um único encapsulamento. Quando uma corrente elétrica passa pelo LED, ele emite luz infravermelha que é detectada pelo fototransistor, ativando-o. Esse mecanismo permite a transferência de sinal elétrico entre dois circuitos elétricos enquanto mantém isolamento elétrico entre eles.
+
+
+As principais características elétricas do PC817 incluem:
+
+• Corrente direta (LED): A corrente recomendada para o LED é de 20 mA com uma tensão direta típica de 1,2 a 1,4 V.
+• Corrente reversa (LED): A corrente reversa máxima é de 10 μA com uma tensão reversa de 4 V.
+• Corrente de coletor (fototransistor): A corrente de coletor máxima é de 50 mA.
+• Dissipação de potência (fototransistor): A dissipação de potência máxima do coletor é de 150 mW.
+• Tensão de isolamento: O PC817 possui uma tensão de isolamento de 5 kVrms.
+• Temperatura de operação: O dispositivo pode operar em temperaturas que variam de -30°C a +100°C.
+• Resistência de isolamento: A resistência de isolamento é de 5 x 10¹º Ω a 500 V DC​(PC817)​.
+• Características Ópticas e de Transferência
+• Corrente de coletor: A corrente de coletor varia de 2,5 mA a 30 mA quando a corrente do LED é de 5 mA e a tensão coletor-emissor é de 5 V.
+• Tensão de saturação coletor-emissor: A tensão de saturação coletor-emissor é típica de 0,1 V quando a corrente do LED é de 20 mA.
+• Capacitância terminal: A capacitância terminal do fototransistor é de 30 a 250 pF​(PC817)​.
+
+Principais Aplicações
+O PC817 é utilizado em diversas aplicações devido à sua capacidade de isolar eletricamente dois circuitos enquanto transmite sinais. Algumas das principais aplicações incluem:
+
+• Equipamentos de informática: Utilizado em interfaces para garantir a integridade dos dados.
+• Equipamentos de telecomunicação: Usado em terminais e modems para isolamento de sinais.
+• Equipamentos de medição: Empregado para isolar diferentes partes do sistema de medição.
+• Máquinas industriais: Utilizado para isolamento e controle de sinais em ambientes industriais.
+• Aparelhos de áudio e vídeo: Aplicado para isolamento em circuitos de entrada e saída.
+• Eletrodomésticos: Usado para garantir a segurança e isolamento de sinais em diversos aparelhos domésticos​(PC817)​​(PC817-Sharp)​.
+• Principais Características Elétricas
