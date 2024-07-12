@@ -17,7 +17,7 @@ void initBoard(int board[ROWS][COLS]) {
 void printBoard(int board[ROWS][COLS]) {
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COLS; j++) {
-            printf(board[i][j] ? "O" : ".");
+            printf(board[i][j] ? "O" : " ");
         }
         printf("\n");
     }
